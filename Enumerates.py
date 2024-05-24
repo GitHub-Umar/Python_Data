@@ -1,4 +1,4 @@
-                   #[ Enumerate and Constants in Python.... ]
+                   #[ Enumerate and Constants in Python ]
 #[ enumerate ]
 x=['umar','javed','jutt']
 for index,x in enumerate(x,start=1):
