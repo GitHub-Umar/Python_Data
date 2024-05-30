@@ -294,12 +294,19 @@ car = {
 x = car.setdefault("color", "white")
 print(x)
 
+print("_______________")
 
 
-
-
-
-
+cars={
+    'civic':'honda',
+    'altis':'toyota',
+    'alto' :'suzuki'
+}
+car_name=input("Enter a car name: ")
+if car_name in cars:
+    print(f"{cars[car_name]}")
+else:
+    print("No in recods")
 
 
 

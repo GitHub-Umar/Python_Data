@@ -46,7 +46,7 @@ print("_______________")
 # x = tuple(y)
 # print(x)
 
-#[ This method is usefull of appent values in tuple ]
+#[ This method is usefull of append values in tuple ]
 thistuple = ("apple", "banana", "cherry")
 y = ("orange",)
 thistuple += y

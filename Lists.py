@@ -97,7 +97,6 @@ for i in range(len(thislist)):
 
 print("_______________")
 
-
 #[ Using a While Loop of list ]
 list = ["apple", "banana", "cherry"]
 i = 0
@@ -207,3 +206,36 @@ list2 = [1, 2, 3]
 
 list1.extend(list2)
 print(list1)
+
+print("_______________")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
