@@ -82,7 +82,6 @@ def my_function():
   list.reverse()
   print(list)
 my_function()
-my_function()
 
 
 

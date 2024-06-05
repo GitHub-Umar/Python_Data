@@ -1,3 +1,4 @@
+
                              #[ Lists in Python ]
 
 #[ Lists are created using square brackets and list contain differnet data types ]
