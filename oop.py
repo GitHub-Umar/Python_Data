@@ -18,7 +18,6 @@ print(s1.roll_num)
 print(s1.all_info())
 print(s2.all_info())
 
-
 print("_______________")
 
 
